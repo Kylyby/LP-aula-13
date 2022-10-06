@@ -6,3 +6,4 @@ while True:
         break
     else:
         converter(float(valor))
+        print('aaa')
